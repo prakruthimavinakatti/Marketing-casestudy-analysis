@@ -1,4 +1,4 @@
-# Marketing-casestudy-analysis
+# Marketing-analysis-casestudies
 This repository contains a collection of market analysis case studies and it involved the following 
 1. Context-Company-Customer-Collaborators-Competitor (5 C's)
 2. Segmentation-Targeting-Positioning (STP)
